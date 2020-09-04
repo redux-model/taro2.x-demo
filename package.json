@@ -29,7 +29,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@redux-model/taro": "6.9.2",
+    "@redux-model/taro": "6.9.4",
     "@tarojs/components": "2.2.13",
     "@tarojs/components-qa": "2.2.13",
     "@tarojs/redux": "2.2.13",

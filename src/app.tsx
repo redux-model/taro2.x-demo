@@ -2,7 +2,9 @@ import Taro, { Component, Config } from '@tarojs/taro'
 import { Provider } from '@tarojs/redux'
 import { createReduxStore } from '@redux-model/taro'
 
-import Index from './pages/index'
+// import Index from './pages/index/index'
+import Index from './pages/index/index-hooks'
+
 
 import './app.css'
 

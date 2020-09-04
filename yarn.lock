@@ -989,10 +989,10 @@
   dependencies:
     mkdirp "^1.0.4"
 
-"@redux-model/taro@6.9.2":
-  version "6.9.2"
-  resolved "https://registry.npmjs.org/@redux-model/taro/-/taro-6.9.2.tgz#03e9956b53c81fb2e20a303323f0bc27b34ad09d"
-  integrity sha512-Y4QqztF7//ihPP7rgDyLS+bPGkNCPuQe4GzXKWlW+2pJ/fHWumgCiiybFF8bYBoTx/qXBAO2y687Mvvo+wjCvg==
+"@redux-model/taro@6.9.4":
+  version "6.9.4"
+  resolved "https://registry.npmjs.org/@redux-model/taro/-/taro-6.9.4.tgz#5ab5509777d175823a02b172030f4418b71d5947"
+  integrity sha512-jXTYX4fBQNDTE89ORvmp1L1IOIlpXm/ImHHW0RFXzhNtIsrSEIgjLSFg/+3YmjGGzbxKopWkDg6L5Eng5CTxIw==
   dependencies:
     clone "^2.1.2"
     immer "^5.3.6"
